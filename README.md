@@ -13,6 +13,8 @@ Olá, boa tarde! Eu me chamo Vanessa e entrei no curso com o intuito de aprender
 ## Links
 [GitHub] (http://github.com)
 
+## Computador
+Trabalho com um notebook Intel Core i7
 
 \*Frase ***profunda*** para referência futura\*
 
